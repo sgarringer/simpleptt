@@ -21,6 +21,6 @@ All credit to Nonoo who created this and released it under GPL: http://dp.nonoo.
 
 # If you are simply looking to run this program:
 
-1. Go to releases on the far left
+1. Go to releases on the far right
 2. Download the .exe 
 3. You may need to install Visual C++ 2015-2022 Redistributable (x86) from Microsoft
