@@ -7,3 +7,9 @@ The only other change is that I set it to not launch to the system tray upon sta
 I'm not a huge VC++ programmer so pull requests may be made but unless they compile on the first try they probably won't be accepted unless it's a simple fix.
 
 All credit to Nonoo who created this and released it under GPL
+
+# If you are simply looking to run this program:
+
+1. Go to releases on the far left
+2. Download the .exe 
+3. You may need to install Visual C++ 2015-2022 Redistributable (x86) from Microsoft
