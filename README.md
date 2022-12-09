@@ -17,7 +17,7 @@ Version history:
 
 1.0 – initial release
 
-All credit to Nonoo who created this and released it under GPL
+All credit to Nonoo who created this and released it under GPL: http://dp.nonoo.hu/projects/simpleptt/
 
 # If you are simply looking to run this program:
 
